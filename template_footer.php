@@ -1,0 +1,1 @@
+<div id="pageFooter">Copyright &copy; <a href="#">Gayathri</a></div>
